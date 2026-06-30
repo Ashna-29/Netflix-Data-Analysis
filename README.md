@@ -82,7 +82,7 @@ Identified the countries contributing the highest number of titles to Netflix.
 
 Explored the genres that appear most frequently in the Netflix catalog.
 
-![Popular Genres](images/Top10Genres.png)
+![Popular Genres](images/Top10Genre.png)
 
 ---
 
